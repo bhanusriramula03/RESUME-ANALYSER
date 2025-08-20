@@ -10,14 +10,9 @@ It compares a resume with a job description, calculates a **match score** using 
 - Provides **resume improvement suggestions** for better job alignment.  
 - Simple, user-friendly interface built with **Streamlit**.
 
-How It Works
-
-Upload a resume (PDF).
-
-Paste the job description.
-
-The system processes text → applies TF-IDF → computes cosine similarity.
-
-Generates a match score and keyword overlap visualization.
-
-Provides resume improvement suggestions.
+## 🎯 How It Works
+-Upload a resume (PDF).
+-Paste the job description.
+-The system processes text → applies TF-IDF → computes cosine similarity.
+-Generates a match score and keyword overlap visualization.
+-Provides resume improvement suggestions.
